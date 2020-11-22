@@ -1,0 +1,15 @@
+﻿  Using triplet "x86-windows" from "C:\Users\Juhyuk\vcpkg\installed\x86-windows\"
+  gl3w.c
+  sb6.cpp
+C:\Users\Juhyuk\Desktop\sb6code-master\include\sb6.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\Juhyuk\Desktop\sb6code-master\include\sb6ext.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  sb6ktx.cpp
+C:\Users\Juhyuk\Desktop\sb6code-master\src\sb6\sb6ktx.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  sb6object.cpp
+C:\Users\Juhyuk\Desktop\sb6code-master\src\sb6\sb6object.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\Juhyuk\Desktop\sb6code-master\include\object.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+C:\Users\Juhyuk\Desktop\sb6code-master\include\sb6mfile.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  sb6shader.cpp
+C:\Users\Juhyuk\Desktop\sb6code-master\src\sb6\sb6shader.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  Generating Code...
+  sb6_vs2013.vcxproj -> C:\Users\Juhyuk\Desktop\sb6code-master\lib\sb6_d32.lib
